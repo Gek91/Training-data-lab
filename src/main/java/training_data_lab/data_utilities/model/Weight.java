@@ -1,5 +1,7 @@
 package training_data_lab.data_utilities.model;
 
+import training_data_lab.data_utilities.model.base.ValueWithUnit;
+
 import java.math.BigDecimal;
 
 public class Weight extends ValueWithUnit<WeightUnit> {

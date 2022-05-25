@@ -1,4 +1,4 @@
-package training_data_lab.data_utilities.model;
+package training_data_lab.data_utilities.model.base;
 
 import lombok.Getter;
 

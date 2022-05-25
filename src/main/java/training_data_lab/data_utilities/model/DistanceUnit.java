@@ -1,5 +1,7 @@
 package training_data_lab.data_utilities.model;
 
+import training_data_lab.data_utilities.model.base.UnitType;
+
 import java.math.BigDecimal;
 import java.util.AbstractMap;
 import java.util.Map;
